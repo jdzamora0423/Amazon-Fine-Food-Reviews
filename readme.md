@@ -1,0 +1,1 @@
+Exercise on NLP sentiment analysis on Amazon food reviews and comparing Vader sentiment analysis vs Roberta pre-trained model
